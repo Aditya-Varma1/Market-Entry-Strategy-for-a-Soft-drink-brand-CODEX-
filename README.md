@@ -1,1 +1,1 @@
-# Market-Entry-Strategy-for-a-Soft-drink-brand-CODEX-
+A German Soft drink company CodeX wants to establish it's presence in India. To understand the Indian market it had conducted a survey on 10,000 respondents. Insights on Respondents demographics, their preferences, existing soft drink brands were derived by analyzing the survey responses.
